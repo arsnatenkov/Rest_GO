@@ -1,7 +1,7 @@
 package apiserver
 
 import (
-	"Rest/store"
+	"Rest/internal/app/store"
 	"github.com/gorilla/mux"
 	"github.com/sirupsen/logrus"
 	"io"
