@@ -1,2 +1,6 @@
 bind_addr = ":8080"
 log_level = "debug"
+
+
+[store]
+database_url = "host=localhost port=6543 password=1138486 dbname=restapi_dev sslmode=disable"
